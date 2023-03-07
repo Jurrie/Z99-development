@@ -1,0 +1,144 @@
+﻿[Setup]
+Version=6.7
+Edition=0
+GUID={BB0F156A-50D7-4736-BD7B-8711E178FB8D}
+AppName=XYZ
+AppVersion=10.1.1.0
+AppDescription=Z99
+CompanyName=Ganseman Jose
+WebSite=
+SupportLink=
+InstallMode=0
+InstallLevel=0
+PromptUninstall=1
+PromptSilentUninstall=0
+CheckVersions=0
+CheckMinVer=1.0
+CheckMaxVer=2.0
+CheckNoUpdate=0
+Windows XP=1
+Windows Vista=0
+Windows 7=1
+Windows 8=1
+Windows 8.1=1
+Windows 10=1
+Windows Server 2003=0
+Windows Server 2008=0
+Windows Server 2008 R2=0
+Windows Server 2012=0
+Windows Server 2012 R2=0
+Windows Server 2016=0
+x64=0
+SystemType=0
+Admin=0
+Internet=0
+CloseApp=0
+CloseAppFile=iexplore.exe
+CloseAppText=Internet Explorer
+dotNET=1
+dotNETVersion=4
+LinkDN=http://www.microsoft.com/en-us/download/details.aspx?id=17113
+IE=0
+IEVersion=0
+LinkIE=http://www.microsoft.com/en-us/download/internet-explorer-10-details.aspx
+AR=0
+ARVersion=5
+LinkAR=http://get.adobe.com/reader/
+Java=0
+JavaVersion=0
+LinkJR=http://www.java.com/en/download/manual.jsp
+SQL=0
+SQLVersion=0
+LinkSQL=http://www.microsoft.com/en-us/download/details.aspx?id=5783
+SQLE=0
+SQLEVersion=0
+SQLExpressVersion=2005
+LinkSQLE=http://www.microsoft.com/en-us/download/details.aspx?id=30438
+VisualCpp=0
+VisualCppVersion=0
+LinkVisualCpp=https://www.microsoft.com/en-us/download/details.aspx?id=5555
+PackageType=0
+DataFileName=
+SetupFolder=C:\Z99CompleteSource
+SetupFileName=InstallZ99
+SetupFile=C:\Z99CompleteSource\InstallZ99.exe
+IconFile=Default
+SourceDir=C:\Z99CompleteSource
+InstallationPath=C:\Z99
+MainExecutable=<InstallDir>\WindowsSoftware\XYZ.exe
+ProgramGroup=<AppName>
+Uninstall=0
+ShowAddRemove=0
+SilentUninstall=0
+UninstallForce=0
+UninstallRestart=0
+UninstallSettings=0
+UninstallSettingsCommand=
+VisitUninstallPage=0
+UninstallURL=http://www.company.com/uninstall.html
+Updater=0
+UpdateURL=http://www.company.com/update.txt
+CheckUpdateBefore=0
+CheckUpdaterTitle=0
+CheckUseDownloader=0
+AutoCheckUpdate=0
+AutoSilentUpdate=0
+WizardBitmap=C:\Program Files (x86)\Actual Installer\Bitmaps\Wizard\01.bmp
+HeaderBitmap=C:\Program Files (x86)\Actual Installer\Bitmaps\Header\01.bmp
+LogoBitmap=C:\Program Files (x86)\Actual Installer\Bitmaps\Logo\01.bmp
+SilentInstall=0
+Theme=1
+ShowPublisher=1
+HideFileNames=0
+Beep=0
+RunAsAdmin=0
+DialogWelcome=1
+DialogLicense=0
+DialogReadme=0
+DialogUserInfo=0
+DialogDestinationFolder=1
+DialogAdditionalTasks=1
+DialogReady=1
+DialogFinish=1
+DefaultLanguage=English
+AutoDetectLanguage=0
+AcceptAgreement=0
+InfoUserName=0
+InfoUserNameReq=0
+InfoCompany=0
+InfoCompanyReq=0
+InfoCustom=0
+InfoCustomReq=0
+InfoCustomName=
+InfoCustomType=0
+InfoSerial=0
+InfoSerialReq=0
+SerialsCount=0
+RestartComputer=0
+LaunchFile=1
+LaunchFileName=<InstallDir>\WindowsSoftware\XYZ.exe
+LaunchFileChecked=1
+ViewReadme=0
+ViewReadmeFile=
+ViewReadmeChecked=0
+CustomAction=0
+CustomActionName=Visit Web Site
+CustomActionCommand=<WebSite>
+CustomActionChecked=0
+TotalFiles=0
+
+[Languages]
+English=
+
+[License]
+(Default)=
+English=
+
+[Readme]
+(Default)=
+English=
+
+[Shortcuts]
+0=<ProgramGroup>*?<AppName>*?<InstallDir>\WindowsSoftware\XYZ.exe*?*?*?<InstallDir>\WindowsSoftware*?<InstallDir>\WindowsSoftware\XYZ.exe*?0*?Normal
+1=<Desktop>*?<AppName>*?<InstallDir>\WindowsSoftware\XYZ.exe*?*?*?<InstallDir>\WindowsSoftware*?<InstallDir>\WindowsSoftware\XYZ.ico*?0*?Normal
+

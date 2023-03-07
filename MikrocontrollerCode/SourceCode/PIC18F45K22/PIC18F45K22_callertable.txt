@@ -1,0 +1,21 @@
+main
+	__CC2DW
+	UART1_Init
+	Initialisation
+	UART1_Data_Ready
+	UART1_Read
+	UART1_Write
+	Lift
+		ZSpeed
+		UART1_Write
+	ST28
+	MotorXY
+		Mul_16X16_U
+		UART1_Write
+		Mul_32x32_U
+		Div_32x32_S
+			SDIV3232L
+			COMFREM
+	EscapeMotorZ
+	EscapeMotorXY
+interrupt
